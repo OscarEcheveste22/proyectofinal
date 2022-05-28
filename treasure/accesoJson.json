@@ -1,0 +1,8 @@
+{
+  "ArchivoEntrada": "GanaGato.csv",
+  "DBUSER":"usr_pyapps",
+  "HOST":"localhost",
+  "DBPASS":"QGJPTp3Da6wTS5aU",
+  "DBNAME": "Ejem01",
+  "PORT": 3306
+}

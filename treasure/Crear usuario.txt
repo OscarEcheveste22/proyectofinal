@@ -1,0 +1,9 @@
+CREATE DATABASE Ejem01;
+
+CREATE USER "usr_pyapps"@"localhost" IDENTIFIED BY "DrB8yQ4cy5MahLgv";
+GRANT ALL PRIVILEGES ON Ejem01.* TO "usr_pyapps"@"localhost";
+
+FLUSH PRIVILEGES
+
+
+SELECT User, Host FROM mysql.user;					
